@@ -19,3 +19,6 @@ For instance,
 java Main 10 10 20 1 10 lru    
 ```
 Thank you!
+
+<br></br>
+** Read 'paging_algorithm_lab_instruction' to know what this program does
